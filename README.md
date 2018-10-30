@@ -13,7 +13,7 @@
 
 ·Tamaño máximo: Dos teras.
 
-·Desde fdisk podemos crear borrar y cambiar el tipo de partición.
+·__Desde fdisk podemos crear borrar y cambiar el tipo de partición.__
 
 ·"N" para crear una nueva partición.
 
