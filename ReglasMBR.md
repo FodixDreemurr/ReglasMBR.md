@@ -1,5 +1,3 @@
-# ReglasMBR.md
-
 # Reglas MBR(Windows)
 
 ·Pueden haber cuatro particiones primarias como máximo. 
